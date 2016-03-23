@@ -1,0 +1,16 @@
+﻿{
+   "compilerOptions": {
+      "module": "system",
+      "noImplicitAny": false,
+      "noEmitOnError": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "target": "es5",
+      "outDir": "../wwwroot/js/mylibs",
+      "jsx": "react"
+   },
+   "exclude": [
+      "node_modules",
+      "wwwroot"
+   ]
+}
